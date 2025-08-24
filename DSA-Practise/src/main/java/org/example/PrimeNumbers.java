@@ -28,7 +28,7 @@ public class PrimeNumbers {
            }
 
        }
-        for  ( int  i=1; i<isPrimeNumbersArray.length; i++){
+        for  ( int  i=2; i<isPrimeNumbersArray.length; i++){
 
             if(isPrimeNumbersArray[i]){
                 System.out.print(i+" ");
