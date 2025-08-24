@@ -1,8 +1,6 @@
 package org.example;
 
-import java.time.Clock;
-
-public class conversionbinaryDec {
+public class conversionBinaryDec {
 
 
     public static void main(String[] args) {
