@@ -10,7 +10,7 @@ public class conversionBinaryDec {
 
         int decimal = 0;
         for(int i=0;i<binary.length();i++){
-
+        //Each left shift put it to power of two
            decimal=(decimal<<1)+ (binary.charAt(i)-'0');
         }
      return decimal;
